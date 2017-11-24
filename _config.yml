@@ -1,0 +1,22 @@
+---
+title: Writing Penguin
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: thewritingpenguin@gmail.com
+description: 'Offical website of J.S. Grant
+
+'
+baseurl: 
+url: http://writingpenguin.com
+markdown: kramdown
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
