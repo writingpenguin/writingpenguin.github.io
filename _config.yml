@@ -1,15 +1,22 @@
-# Site settings
+---
 title: Writing Penguin
-email: thewritingpenguin@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Offical website of J.S. Grant
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://writingpenguin.com" # the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
 timezone: America/New_York
-gems: [jekyll-feed]
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: thewritingpenguin@gmail.com
+description: 'Offical website of J.S. Grant
+
+'
+baseurl: ''
+url: http://writingpenguin.com
+markdown: kramdown
+gems:
+- jekyll-feed
 exclude:
-  - Gemfile
-  - Gemfile.lock
+- Gemfile
+- Gemfile.lock
