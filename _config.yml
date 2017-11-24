@@ -12,7 +12,7 @@ email: thewritingpenguin@gmail.com
 description: 'Offical website of J.S. Grant
 
 '
-baseurl: ''
+baseurl: 
 url: http://writingpenguin.com
 markdown: kramdown
 gems:
