@@ -5,6 +5,9 @@ permalink: "/posts/blue-typewriter"
 tags:
 - post
 author: J.S. Grant
+images:
+  url: "/assets/img/posts/DSC_8763.jpg"
+  title: Title
 layout: post
 ---
 
