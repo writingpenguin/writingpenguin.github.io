@@ -4,6 +4,7 @@ date: 2017-11-23 18:52:00 -08:00
 permalink: "/posts/blue-typewriter"
 tags:
 - post
+author: J.S. Grant
 layout: post
 ---
 
