@@ -3,7 +3,7 @@
  */
 .site-header {
     padding-top: 20px;
-    border-bottom: 1px solid $grey-color-light;
+    //border-bottom: 1px solid $grey-color-dark;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -34,9 +34,16 @@
     }
 
     &:hover {
-        color: #990000;
+        color: $grey-color-dark;
         text-decoration: none;
     }
+}
+
+.site-subtitle{
+    color: $grey-color-dark;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-bottom: 0px;
 }
 
 .site-nav {
@@ -47,7 +54,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: #ff4d4d;
         line-height: $base-line-height;
         margin-right: auto;
         margin-left: auto;
@@ -59,7 +66,7 @@
         }
 
         &:hover {
-            color: $grey-color;
+            color: $grey-color-dark;
         }
     }
     // This shows the menu icon when viewing on small screen.
@@ -114,12 +121,14 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding-top: 20px;
+    background-color: $site-text-color;
+    //border-top: 1px solid $grey-color-light;
+    padding-top: 5px;
     text-align: center;
+    padding-bottom: 5px;
 
     p {
-        color: $grey-color;
+        color: white;
         margin-bottom: 0px;
     }
 }
@@ -190,7 +199,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: 50px 0;
 }
 
 .page-heading {
@@ -208,13 +217,23 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $grey-color-dark;
 }
 
 .post-link {
     display: block;
     font-size: 24px;
-    text-color: $grey-color;
+    text-color: $site-text-color;
+
+
+    &:visited {
+        color: $site-text-color;
+    }
+
+    &:hover {
+        color: $grey-color-dark;
+        text-decoration: none;
+    }
 }
 
 // Archive Style
@@ -239,6 +258,7 @@
 }
 
 .post-title {
+    color: #ff4d4d;
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
@@ -273,6 +293,34 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+}
+
+.end-post {
+    display: block;
+    margin: 0px auto;
+    margin-top: 21px;
+    margin-bottom: 21px;
+
+    height: 1px;
+    border-radius: 3px;
+    background: $site-text-color;
+
+    max-width: 300px;
+}
+
+.post-home-link {
+    display: block;
+    text-align: center;
+    color: $site-text-color;
+
+    &:visited {
+        color: $site-text-color;
+    }
+
+    &:hover {
+        color: $grey-color-dark;
+        text-decoration: none;
     }
 }
 /* Grid layout */

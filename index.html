@@ -19,7 +19,7 @@ content_slim: true
         </a>
         <p class="post-excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url | prepend: site.baseurl }}">[Continue]</a></p>
         {% if forloop.last == false %}
-        <hr class="list-hr">
+        <div class="end-post"></div>
         {% endif %}
       </li>
     {% endfor %}
