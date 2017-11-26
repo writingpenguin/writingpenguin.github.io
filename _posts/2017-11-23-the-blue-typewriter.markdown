@@ -11,7 +11,7 @@ images:
 layout: post
 ---
 
-I frequent antique and thrift stores way too much. They are a great place to find used typewriters at a reasonable, most of the time, price. While the price is excellent, they might have minor cosmetic issues. They will almost always need a deep cleaning to return them to working condition.
+I frequent antique and thrift stores way too much. Like **way** too much. They are a great place to find used typewriters at a reasonable, most of the time, price. While the price is excellent, they might have minor cosmetic issues. They will almost always need a deep cleaning to return them to working condition.
 
 I have a humble typewriter collection at only five typewriters. Each typewriter I have repaired and returned to perfect working condition. Most of them are older models from the 40s-60s. These machines are large, weigh a ton, and require a lot of force to depress a key. Due to both of these issues, I can’t write for a long time on any of my typewriters.
 
