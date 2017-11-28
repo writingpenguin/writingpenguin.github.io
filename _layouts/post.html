@@ -15,9 +15,9 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-  {% if page.next_part %}
-  <hr>
-  <p class="next_link">Continued in <a href="{{ page.next_part | prepend: site.baseurl }}">{{page.next_title}}</a></p>
-  {% endif %}
+
+  <div class="end-post"></div>
+
+  <a class="post-home-link" href="{{siteurl}}/">Home</a>
 
 </div>
