@@ -121,14 +121,14 @@
  * Site footer
  */
 .site-footer {
-    background-color: $site-text-color;
+    //background-color: $site-text-color;
     //border-top: 1px solid $grey-color-light;
     padding-top: 5px;
     text-align: center;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 
     p {
-        color: white;
+        color: $grey-color-light;
         margin-bottom: 0px;
     }
 }
@@ -199,7 +199,9 @@
  * Page content
  */
 .page-content {
-    padding: 50px 0;
+    padding-top: 50px;
+    padding-bottom: 15px;
+    //padding: 50px 0;
 }
 
 .page-heading {
@@ -323,6 +325,19 @@
         text-decoration: none;
     }
 }
+/* Basic Pages */
+.about-page {
+    padding-bottom: 50px;
+}
+.profile-image{
+    float: left;
+    margin-right: 20px;
+    width: 256px;
+    image-rendering: crisp-edges;
+}
+
+
+
 /* Grid layout */
 
 /*  SECTIONS  ============================================================================= */
