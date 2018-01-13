@@ -133,6 +133,20 @@
     }
 }
 
+.social-media-link {
+    color: $site-text-color;
+
+    &:visited {
+        color: $site-text-color;
+    }
+
+    &:hover {
+        color: $grey-color-dark;
+        text-decoration: none;
+    }
+}
+
+
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
