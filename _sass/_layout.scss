@@ -339,6 +339,16 @@
         text-decoration: none;
     }
 }
+
+.pull-quote {
+    color: $grey-color-dark;
+    border-left-style: solid;
+    border-color: red;
+    padding-left: 20px;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 25px;
+}
 /* Basic Pages */
 .about-page {
     padding-bottom: 50px;

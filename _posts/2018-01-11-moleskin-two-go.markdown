@@ -52,6 +52,7 @@ Moleskin sells this product as a way to "...track your ideas in parallel: freeha
 I will completely admit however, that for someone who enjoys doodling while they write, this notebook would work great for you. I could see people using this notebook as a daily journal, with one page dedicated to writing and the other for small drawings of what happened in the day. If I was a little more drawing inclined, I might enjoy the double paper styles in the Two-Go.
 
 ## Price
+<p class="pull-quote">...I was able to fill the entire notebook in about a month and a half. For $20, that isn’t much of a deal.</p>
 As with most Moleskin products, the Two-Go is pretty expensive when compared to comparable notebooks. It retails for around $20 (USD), which is around $5 more than Moleskin’s Classic notebook we all have seen everywhere.
 
 While the overall design is amazing and the paper is a step up than most Moleskin notebooks, the Two-Go isn’t really for everyone. Unless you plan on following Moleskin’s belief that this notebook is meant to capture freeform ideas along with formal writing, the cost is too high for what you are getting.
