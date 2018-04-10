@@ -312,6 +312,14 @@
     }
 }
 
+.footer-line {
+    display: block;
+    margin: 0px auto;
+
+    height: 1px;
+    background: $site-text-color;
+}
+
 .end-post {
     display: block;
     margin: 0px auto;
