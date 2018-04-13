@@ -121,21 +121,42 @@
  * Site footer
  */
 .site-footer {
-    background-color: $site-text-color;
+    //background-color: $site-text-color;
     //border-top: 1px solid $grey-color-light;
     padding-top: 5px;
     text-align: center;
-    padding-bottom: 5px;
 
     p {
-        color: white;
-        margin-bottom: 0px;
+        color: $grey-color-light;
+        margin-bottom: 10px;
     }
 }
+
+.social-media-link {
+    color: $site-text-color;
+
+    &:visited {
+        color: $site-text-color;
+    }
+
+    &:hover {
+        color: $grey-color-dark;
+        text-decoration: none;
+    }
+}
+
 
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
+}
+
+.footer-line {
+    display: block;
+    margin: 0px auto;
+
+    height: 5px;
+    background: $site-text-color;
 }
 
 .contact-list,
@@ -199,7 +220,9 @@
  * Page content
  */
 .page-content {
-    padding: 50px 0;
+    padding-top: 50px;
+    padding-bottom: 15px;
+    //padding: 50px 0;
 }
 
 .page-heading {
@@ -296,6 +319,7 @@
     }
 }
 
+
 .end-post {
     display: block;
     margin: 0px auto;
@@ -323,6 +347,29 @@
         text-decoration: none;
     }
 }
+
+.pull-quote {
+    color: $grey-color-dark;
+    border-left-style: solid;
+    border-color: red;
+    padding-left: 20px;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 25px;
+}
+/* Basic Pages */
+.about-page {
+    padding-bottom: 50px;
+}
+.profile-image{
+    float: left;
+    margin-right: 20px;
+    width: 256px;
+    image-rendering: crisp-edges;
+}
+
+
+
 /* Grid layout */
 
 /*  SECTIONS  ============================================================================= */
