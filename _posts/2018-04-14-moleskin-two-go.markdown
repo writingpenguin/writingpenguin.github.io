@@ -1,6 +1,6 @@
 ---
 title: Moleskin Two-Go...Finally Fountain Pen Friendly?
-date: 2018-01-11 18:52:00 -08:00
+date: 2018-04-14 06:00:00 -07:00
 permalink: "/posts/moleskin-two-go"
 tags:
 - post
