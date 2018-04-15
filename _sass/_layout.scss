@@ -10,6 +10,14 @@
     position: relative;
 }
 
+a:visited {
+    color: #ff4d4d;
+}
+a:hover {
+    color: $grey-color-dark;
+    text-decoration: none;
+}
+
 /** Image Captions Support
 */
 .image-wrapper {
