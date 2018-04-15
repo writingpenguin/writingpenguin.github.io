@@ -1,6 +1,6 @@
 ---
 title: Moleskin Two-Go...Finally Fountain Pen Friendly?
-date: 2018-04-13 06:00:00 -07:00
+date: 2018-04-14 18:00:00 -07:00
 permalink: "/posts/moleskin-two-go"
 tags:
 - post
@@ -23,7 +23,7 @@ After filling the entire notebook after a month of usage, I finally think I’m 
 
 The Two-Go has many of the same features as most Moleskins. It has a nice elastic band to keep the notebook closed, ivory-colored pages, and a back pocket. The Two-Go measures in at 4.5x6.9 inches, which is a little smaller than Moleskin’s popular Medium sized notebook. I really love this form factor and wish more notebooks came in this size. Its perfect to carry around all day or stick in your back pocket.
 
-What makes the Two-Go stand out is its cloth cover. The Two-Go is part of Moleskin’s “Textile Collection” notebooks. The notebook comes in Oriental Blue, Ash Grey, Raspberry Red, and Saxe Blue cloth colors. Some of the colors, such as the Raspberry Red, look really great in person. While others like the Saxe Blue seem kinda bland. The Two-Go I purchased was the Oriental Blue version. I don't like overly loud notebooks so I enjoyed the muted blue color.
+What makes the Two-Go stand out is its cloth cover. The Two-Go is part of Moleskin’s “Textile Collection” notebooks. The notebook comes in Oriental Blue, Ash Grey, Raspberry Red, and Saxe Blue cloth colors. Some of the colors, such as the Raspberry Red, look really great in person. While others like the Saxe Blue seem kinda bland. The Two-Go I purchased was the Oriental Blue version. I don't like flashy notebooks so I enjoyed the muted blue color.
 
 ![Design](/assets/img/posts/Moleskin-Two-Go/DSC_8816.jpeg)
 
@@ -37,7 +37,7 @@ One of the odd things about this notebook is its twin bookmarks. Moleskin’s en
 
 ![Paper](/assets/img/posts/Moleskin-Two-Go/DSC_8823.jpeg)
 
-Moleskin states the paper is 100 gsm, which is higher than their usual 70 gsm weight they have been using.
+Moleskin states the paper is 100 gsm, which is higher than their usual 70 gsm weight they have used before.
 
 Right off the bat, this paper is much improved over previous Moleskins I’ve used.  As you would expect, the Two-Go works great with pencils, ballpoints, and rollerballs. More importantly, Two-Go also handles fountain pens pretty well. Although, this depends on your pen and ink combination.
 
@@ -47,7 +47,7 @@ When using my Twsbi, the paper felt like it had just the right amount of tooth t
 
 ![Paper](/assets/img/posts/Moleskin-Two-Go/DSC_8820.jpeg)
 
-Unfortunately, the paper isn’t perfect. As you can see above, the Two-Go struggled with the Shaffer pen, showing a lot of feathering. Another big downsized is that only one side of each sheet contains lines for writing.
+Unfortunately, the paper isn’t perfect. As you can see above, the Two-Go struggled with the Shaffer pen, showing a lot of feathering. Another big downside is that only one side of each sheet contains lines for writing.
 
 Moleskin sells this product as a way to "...track your ideas in parallel: freehand, unconfined and spontaneous on one side, considered, linear and precise on the other.” While this may work great for some, I wasn’t a big fan of the double paper styles. I mostly use my notebooks for writing, so I need as many lined pages as possible.
 
@@ -66,6 +66,6 @@ Since I did not use the blank sides of the pages for drawing, I was able to fill
 
 ![Overview](/assets/img/posts/Moleskin-Two-Go/DSC_8816.jpeg)
 
-The Two-Go is a great step forward for Moleskin. The amazing cover, coupled with fountain pen friendly paper almost makes this notebook perfect. I loved using the Two-Go everyday I cracked it open to write in. Recently, Target was selling the Two-Go on sale for $10. I picked up a couple since at that lower price they are well worth it.
+The Two-Go is a great step forward for Moleskin. The amazing cover, coupled with fountain pen friendly paper almost makes this notebook perfect. I loved using the Two-Go everyday I cracked it open to write in. Recently, Target was selling the Two-Go on sale for $10. I picked up a couple since at that low price they are well worth it.
 
 My biggest wish is that Moleskin would produce more notebooks like the Two-Go. It is unique and stands out on the shelf with the rest of the basic faux leather notebooks currently being sold.
